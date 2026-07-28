@@ -2,7 +2,7 @@
 
 ### I enjoy learning about engineering.
 
-- 🔭 I'm currently working on **homelab.**
+- 🔭 I'm currently working on a **homelab.**
 
 - 🌱 I'm currently learning **hardware modding.**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **daniel.skoropad72@gmail.com**
 
-- ⚡ Fun fact **I really enjoy fabrication and machining.**
+- ⚡ Fun fact **I enjoy fabrication and machining.**
 
 - 👨‍💻 All of my projects are available at **[danielskoropad.net](https://danielskoropad.net/)**
 
