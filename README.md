@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **hardware modding.**
 
-- 💬 Ask me about **Passionate about engineering and currently planning on pursuing a bachelor's in Electrical Engineering at Sacramento State University.**
+- 💬 Ask me about **anything.**
 
 - 📫 How to reach me **daniel.skoropad72@gmail.com**
 
